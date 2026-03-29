@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 
 st.set_page_config(layout="wide", page_title="Advanced RE DCF Model")
 
-st.title("🏢 부동산 현금흐름(DCF) 및 민감도 분석 시뮬레이터")
+st.title("부동산 현금흐름(DCF) 및 민감도 분석 시뮬레이터")
 st.markdown("수치 변동에 따른 투자 수익률(IRR) 영향도를 직관적으로 파악하기 위한 교육 및 분석용 도구")
 
 # --- 1. 사이드바: 투자 변수 입력 ---
